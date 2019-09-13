@@ -24,5 +24,5 @@ def fib3(n: int) -> int:
 
 
 if __name__ == "__main__":
-    print(fib3(5))
+    print(fib3(10))
     print(fib3(50))
